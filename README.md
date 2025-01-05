@@ -9,7 +9,7 @@ This is an exercise project for mobile development using flutter, credits to Mob
 Download or clone this repo by using the link below:
 
 ```
-https://github.com/zubairehman/flutter-boilerplate-project.git
+https://github.com/ArzakaRaffan/RistekPay.git
 ```
 
 **Step 2:**
@@ -18,4 +18,10 @@ Go to project root and execute the following command in console to get the requi
 
 ```
 flutter pub get 
+```
+
+**Step 3:**
+You might want to run this using your browser. Run the following command:
+```
+flutter run
 ```
